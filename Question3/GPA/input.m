@@ -1,0 +1,1 @@
+myGPA('input.avi');
