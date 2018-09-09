@@ -1,4 +1,8 @@
 # ImageProcessing_Mathematical_Modeling
+
+Other data you can find in:https://download.csdn.net/download/u011344545/10442630  and
+https://download.csdn.net/download/u011344545/10446455
+
 “华为杯”第十四届中国研究生数学建模竞赛（图像处理题）——获全国二等奖
 
 《基于监控视频的前景目标提取》
